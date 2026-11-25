@@ -1,0 +1,14 @@
+{
+  "name": "senai-relogio-api",
+  "version": "1.0.0",
+  "description": "API Express - Data e Hora com front-end consumindo (Aula 4 atividade 2)",
+  "main": "api.js",
+  "scripts": {
+    "start": "node api.js",
+    "dev": "node api.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  }
+}
